@@ -1,0 +1,6 @@
+{
+  "name": "전공 용어 플래시카드",
+  "description": "간호·보건, 조리·제과제빵, 전기·기계 전공 핵심 용어를 카드로 뒤집어 학습하고 알아요/모르겠어요로 기록하는 모바일 최적화 학습 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
